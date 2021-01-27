@@ -1,0 +1,3 @@
+/home/Seminar 2 Actualizacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Seminar 2 Actualizacion/cmake-build-debug/CMakeFiles/seminar_files_students.dir
+/home/Seminar 2 Actualizacion/cmake-build-debug/CMakeFiles/edit_cache.dir

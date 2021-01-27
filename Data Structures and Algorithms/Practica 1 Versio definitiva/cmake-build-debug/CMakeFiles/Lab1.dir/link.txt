@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/Lab1.dir/src/hash_table.c.o CMakeFiles/Lab1.dir/src/linked_list.c.o CMakeFiles/Lab1.dir/src/main.c.o CMakeFiles/Lab1.dir/src/utils.c.o CMakeFiles/Lab1.dir/src/word_info.c.o CMakeFiles/Lab1.dir/src/test.c.o  -o Lab1.exe -Wl,--out-implib,libLab1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

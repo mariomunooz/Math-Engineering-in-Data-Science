@@ -1,0 +1,3 @@
+/home/Seminar 1 act/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Seminar 1 act/cmake-build-debug/CMakeFiles/eda1_seminar_refstruct_students.dir
+/home/Seminar 1 act/cmake-build-debug/CMakeFiles/edit_cache.dir

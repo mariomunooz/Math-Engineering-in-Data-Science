@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/commons.h
+stdio.h
+-
+
+../include/file_utils.h
+word_info.h
+../include/word_info.h
+
+../include/main.h
+
+../include/tree.h
+word_info.h
+../include/word_info.h
+
+../include/word_info.h
+
+/home/Practica 2 revisada/src/file_utils.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+file_utils.h
+/home/Practica 2 revisada/src/file_utils.h
+word_info.h
+/home/Practica 2 revisada/src/word_info.h
+
+/home/Practica 2 revisada/src/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+tree.h
+/home/Practica 2 revisada/src/tree.h
+file_utils.h
+/home/Practica 2 revisada/src/file_utils.h
+main.h
+/home/Practica 2 revisada/src/main.h
+
+/home/Practica 2 revisada/src/tree.c
+stdlib.h
+-
+string.h
+-
+commons.h
+/home/Practica 2 revisada/src/commons.h
+tree.h
+/home/Practica 2 revisada/src/tree.h
+
+/home/Practica 2 revisada/src/word_info.c
+stdio.h
+-
+string.h
+-
+word_info.h
+/home/Practica 2 revisada/src/word_info.h
+file_utils.h
+/home/Practica 2 revisada/src/file_utils.h
+

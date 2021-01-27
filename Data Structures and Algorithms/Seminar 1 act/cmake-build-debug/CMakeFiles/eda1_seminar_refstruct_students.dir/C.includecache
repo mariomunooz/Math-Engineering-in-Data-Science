@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Seminar 1 act/main.c
+stdio.h
+-
+string.h
+-
+seminar-refstruct-exercises.h
+/home/Seminar 1 act/seminar-refstruct-exercises.h
+
+/home/Seminar 1 act/seminar-refstruct-exercises.h
+

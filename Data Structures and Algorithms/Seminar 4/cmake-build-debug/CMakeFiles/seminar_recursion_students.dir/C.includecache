@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Seminar 4/main.c
+stdio.h
+-
+seminar-recursion-exercises.h
+/home/Seminar 4/seminar-recursion-exercises.h
+
+/home/Seminar 4/seminar-recursion-exercises.h
+

@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hash_table.h
+utils.h
+../include/utils.h
+linked_list.h
+../include/linked_list.h
+
+../include/linked_list.h
+utils.h
+../include/utils.h
+word_info.h
+../include/word_info.h
+
+../include/test.h
+hash_table.h
+../include/hash_table.h
+
+../include/utils.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdbool.h
+-
+
+../include/word_info.h
+utils.h
+../include/utils.h
+
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/hash_table.c
+hash_table.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/hash_table.h
+
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/linked_list.c
+linked_list.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/linked_list.h
+
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/main.c
+utils.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/utils.h
+hash_table.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/hash_table.h
+test.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/test.h
+
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/test.c
+test.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/test.h
+
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/utils.c
+utils.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/utils.h
+
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/word_info.c
+word_info.h
+/home/EDA II/Practica 1/Practica 1 Versio definitiva/src/word_info.h
+

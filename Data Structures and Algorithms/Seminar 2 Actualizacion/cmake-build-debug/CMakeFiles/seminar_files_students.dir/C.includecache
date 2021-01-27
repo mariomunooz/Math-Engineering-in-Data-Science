@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/Seminar 2 Actualizacion/common.h
+
+/home/Seminar 2 Actualizacion/seminar-files-exercises.c
+stdio.h
+-
+string.h
+-
+common.h
+/home/Seminar 2 Actualizacion/common.h
+seminar-files-exercises.h
+/home/Seminar 2 Actualizacion/seminar-files-exercises.h
+
+/home/Seminar 2 Actualizacion/seminar-files-exercises.h
+

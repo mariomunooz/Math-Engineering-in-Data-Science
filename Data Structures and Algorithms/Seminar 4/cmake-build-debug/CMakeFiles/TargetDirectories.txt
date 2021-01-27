@@ -1,0 +1,3 @@
+/home/Seminar 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/Seminar 4/cmake-build-debug/CMakeFiles/seminar_recursion_students.dir
+/home/Seminar 4/cmake-build-debug/CMakeFiles/edit_cache.dir
